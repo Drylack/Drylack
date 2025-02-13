@@ -1,6 +1,6 @@
 ## Hola
 
-soy Esgar soy una persona que le gusta sobresalir en lo que le gusta, ya sea en lo deportivo y algo mas
+soy Esgar y soy una persona que le gusta sobresalir en lo que le gusta, ya sea en lo deportivo o algo mas
 
 <!--
 **Drylack/Drylack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
